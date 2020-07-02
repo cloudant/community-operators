@@ -1,7 +1,7 @@
 channels:
-- currentCSV: couchdb-operator.v1.0.13
+- currentCSV: couchdb-operator.v1.0.14
   name: stable
-- currentCSV: couchdb-operator.v1.0.13
+- currentCSV: couchdb-operator.v1.0.14
   name: beta
 defaultChannel: stable
 packageName: couchdb-operator
